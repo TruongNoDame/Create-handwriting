@@ -5,7 +5,7 @@ Mỗi người tự tạo một tập ảnh gồm các chữ viết tay, mỗi s
 
 Quy tắc đặt tên :
       
-      Mỗi số sẽ được đánh tên theo quy tắc "so_stt.png" ,
+      Mỗi ảnh sẽ được đánh tên theo quy tắc "so_stt.png" ,
       
             trong đó `so` là số mà bạn tạo, `stt` là số thứ tự của số được tạo.
             
